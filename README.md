@@ -1,2 +1,4 @@
 # JaiPrakashPeela_8808222
-Repo for Assignments
+Name : Jai Prakash 
+Project Title: Lab 3
+Student ID : 8808222
